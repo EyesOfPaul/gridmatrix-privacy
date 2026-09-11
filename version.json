@@ -1,4 +1,1 @@
-{
-  "latestVersion": "1.0.2",
-  "releaseNotes": "GPS fixed, Compass fixed, Read Aloud improved, Backup export fixed"
-}
+{ "latestVersion": "1.0.3", "releaseNotes": "Compass fixed, GPS working, Read Aloud improved, overheating fix, auto update checker" }
