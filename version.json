@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 31, "releaseNotes": "Back key stops Read Aloud, highlight syncs with voice, Copy Scan Prompt auto-collapses, steadier tab switching, darker mahogany wood" }
+{ "latestVersion": "1.0.3", "latestBuild": 32, "releaseNotes": "Nav tab redesigned with live map, location and facing arrow, waypoints; navigation gear moved to Inventory; Solar Map merged into Nav" }
