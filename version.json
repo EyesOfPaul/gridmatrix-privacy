@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 30, "releaseNotes": "Fixed header logo disappearing on scroll, new bolt-action and toggle tap sounds, fixed crash from corrupted data, performance improvements" }
+{ "latestVersion": "1.0.3", "latestBuild": 31, "releaseNotes": "Back key stops Read Aloud, highlight syncs with voice, Copy Scan Prompt auto-collapses, steadier tab switching, darker mahogany wood" }
