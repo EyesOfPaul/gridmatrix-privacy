@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 29, "releaseNotes": "Compass fixed, tap sounds everywhere, typewriter typing sounds, breathing gold glow, darker wood grain" }
+{ "latestVersion": "1.0.3", "latestBuild": 30, "releaseNotes": "Fixed header logo disappearing on scroll, new bolt-action and toggle tap sounds, fixed crash from corrupted data, performance improvements" }
