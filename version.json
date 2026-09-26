@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 32, "releaseNotes": "Nav tab redesigned with live map, location and facing arrow, waypoints; navigation gear moved to Inventory; Solar Map merged into Nav" }
+{ "latestVersion": "1.0.3", "latestBuild": 33, "releaseNotes": "Field Manual updated in five languages, privacy policy matches Nav map behavior, Google Fonts and Cloudflare removed for full offline use" }
