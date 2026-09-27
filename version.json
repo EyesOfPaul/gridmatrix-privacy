@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 34, "releaseNotes": "Tutorial narration and spotlight perfectly synced, added Play Tutorial on Startup switch in Settings" }
+{ "latestVersion": "1.0.3", "latestBuild": 35, "releaseNotes": "Tutorial spotlight fixed, interactive try-it prompts, fixed scroll bug, friendlier Fuel empty state" }
