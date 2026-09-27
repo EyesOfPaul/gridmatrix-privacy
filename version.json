@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 35, "releaseNotes": "Tutorial spotlight fixed, interactive try-it prompts, fixed scroll bug, friendlier Fuel empty state" }
+{ "latestVersion": "1.0.3", "latestBuild": 36, "releaseNotes": "Fixed hidden performance bug causing battery drain and stuttering on older phones, tutorial now includes full AI scan walkthrough" }
