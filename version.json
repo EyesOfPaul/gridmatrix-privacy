@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 36, "releaseNotes": "Fixed hidden performance bug causing battery drain and stuttering on older phones, tutorial now includes full AI scan walkthrough" }
+{ "latestVersion": "1.0.3", "latestBuild": 37, "releaseNotes": "Tutorial expanded to cover Read Aloud, photo zoom, backups, Back button; fixed App Information counts; corrected location wording" }
