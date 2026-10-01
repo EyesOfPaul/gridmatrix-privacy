@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 37, "releaseNotes": "Tutorial expanded to cover Read Aloud, photo zoom, backups, Back button; fixed App Information counts; corrected location wording" }
+{ "latestVersion": "1.0.3", "latestBuild": 38, "releaseNotes": "Fixed critical AI routing bug for bold-formatted answers, added Household and Childcare categories, water tanks keep litres, glass redesign" }
