@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 38, "releaseNotes": "Fixed critical AI routing bug for bold-formatted answers, added Household and Childcare categories, water tanks keep litres, glass redesign" }
+{ "latestVersion": "1.0.3", "latestBuild": 40, "releaseNotes": "Added Fuel Range Check on Nav map, Bahasa Indonesia language, fixed translation gaps, fixed hidden battery drain from background animations" }
