@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 45, "releaseNotes": "Added billing support for upcoming Pro features." }
+{"latestVersion": "1.0.3", "latestBuild": 46, "releaseNotes": "Added Google Play billing test integration for GridMatrix Pro."}
