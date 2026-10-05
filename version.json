@@ -1,1 +1,1 @@
-{ "latestVersion": "1.0.3", "latestBuild": 42, "releaseNotes": "Vehicle types and fuel types so range only counts fuel your vehicle can use, electric vehicle range, reverse swipe option" }
+{ "latestVersion": "1.0.3", "latestBuild": 45, "releaseNotes": "Added billing support for upcoming Pro features." }
