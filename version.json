@@ -1,1 +1,5 @@
-{"latestVersion": "1.1.8", "latestBuild": 80, "releaseNotes": "A big update with dozens of fixes: faster logging, better scans, calories and settings kept, on-time reminders, offline maps and clearer text."}
+{
+  "latestVersion": "1.1.9",
+  "latestBuild": 81,
+  "releaseNotes": "Every tab guide now covers the newer features, and list cards are tidier and more compact."
+}
