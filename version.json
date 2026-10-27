@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.9",
-  "latestBuild": 81,
-  "releaseNotes": "Every tab guide now covers the newer features, and list cards are tidier and more compact."
+  "latestVersion": "1.2.1",
+  "latestBuild": 83,
+  "releaseNotes": "Privacy switches for the status report, barcodes no longer saved as serials, a Water & Filtration category, an expiry list, photos in Edit, a folding bag overview with totals, the close button top-right, and Pro shown as a one-time purchase."
 }
