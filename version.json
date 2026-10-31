@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.2.1",
-  "latestBuild": 83,
-  "releaseNotes": "Privacy switches for the status report, barcodes no longer saved as serials, a Water & Filtration category, an expiry list, photos in Edit, a folding bag overview with totals, the close button top-right, and Pro shown as a one-time purchase."
+  "latestVersion": "1.2.2",
+  "latestBuild": 85,
+  "releaseNotes": "A long-life food checklist in Reserves, a plan picker from 72 hours up to a year that works out food and water for your household, a long-term list for 3 months or more, and Readiness now goes to 6 months and 1 year."
 }
